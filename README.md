@@ -1,5 +1,5 @@
-# AutoVault-PH
+# AutoVault
 
-<img src="assets/Images/autovault proj.png">
+<img src="assetsiImages/autovault proj.png">
 
 ## Overview
