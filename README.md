@@ -1,2 +1,5 @@
 # AutoVault-PH
-A simple mobile-based car rental platform.
+
+<img src="assets/Images/autovault proj.png">
+
+## Overview
