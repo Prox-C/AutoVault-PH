@@ -1,5 +1,5 @@
 # AutoVault
 
-<img src="assetsiImages/autovault proj.png">
+<img src="./assets/images/autovault proj.png">
 
 ## Overview
