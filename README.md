@@ -9,5 +9,7 @@ My passion project and first born child, Auto Vault is a mobile-based car rental
 ## Core Technologies
 <a href="" > <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a><a href="" > <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white"></a><a href="" > <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
+## Progress 
+Non-existent. I'm always burntout </3
 
 
